@@ -1,0 +1,10 @@
+how to break recursive realtion:- 
+
+1. identify you can break down into smaller problem
+2. write the recurrence relation if needed
+3. draw the recursive tree.
+4. a) See the flow of functions how they are getting How they are getting in stack?
+   b) How they are getting in stack? 
+  c) Draw the tree and pointer again and again using pen and paper.
+  d) Use a debugger to see the flow.
+5. see how the values are returned at each step. see where the function call will come out. In end, you will come out of the main character.
